@@ -126,6 +126,13 @@
       "rootV4": "0:967c87a81c2ad6a489fe006f831a11ffd8ac5bc6f7dd4e107a27e0e6a7728144",
       "rootV5": "0:9dd2cd82cbfd74a963be1ef1fd1a1f3e25f60e0b8c742f8b862df378b9a5e265",
       "proxy": "0:9d09ed787c99143c125ecf6b3ace7f6056d6b0180cb69d5a306b8c34dcf0225b"
-    }
+    },
+    {
+      "symbol": "FLUD",
+      "logoURI": "https://ibb.co/ydPDWzT",
+      "rootV4": "0:28c21128f66884feedeb867562b6e94e392da00d53c83a3a30ff3fbacd10dae3",
+      "rootV5": "0:6a39f311ed0f8e73fe2937a5321dd452d8eb6162e27682f22ce4902f74bac28a",
+      "proxy": "0:be445e0f30c167e7afda3c0cad2a51583ea2056f71fb1fb93fcadccabb22d816"
+    
   ]
 }
